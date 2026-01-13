@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Optimizer",
+  "description": "A powerful resume optimization platform that parses, scores, and tailors resumes for Applicant Tracking Systems (ATS) using Google Gemini.",
+  "requestFramePermissions": []
+}
